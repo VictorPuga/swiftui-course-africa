@@ -9,6 +9,9 @@ Second app from the SwiftUI online course
 - Data modeling and fetching
 - Dynamic rendering
 - TabBar navigation
+- Computed properties
+- Haptics
+- Video playback
 - Views:
   - TabView
   - Map
