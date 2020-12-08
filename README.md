@@ -12,6 +12,8 @@ Second app from the SwiftUI online course
 - Computed properties
 - Haptics
 - Video playback
+- Maps annotations
+- Animation
 - Views:
   - TabView
   - Map
