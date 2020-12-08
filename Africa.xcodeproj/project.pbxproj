@@ -93,6 +93,7 @@
 		32611AE5257EFEED00F98D7A /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		329806DA2579A78700FFE913 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		329806DD2579AE3C00FFE913 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		32DB03AF257F18F000463A70 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 		280F4243255777DC003208E1 = {
 			isa = PBXGroup;
 			children = (
+				32DB03AF257F18F000463A70 /* .gitignore */,
 				286FD16E256B2FFE00562848 /* README.md */,
 				280F424E255777DC003208E1 /* Africa */,
 				280F424D255777DC003208E1 /* Products */,
