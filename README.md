@@ -17,3 +17,5 @@ Second app from the SwiftUI online course
 - Views:
   - TabView
   - Map
+  - Slider
+  - ToolbarItem
