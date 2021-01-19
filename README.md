@@ -19,3 +19,5 @@ Second app from the SwiftUI online course
   - Map
   - Slider
   - ToolbarItem
+- iMessage Extension
+- Mac Catalyst
